@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:900&display=swap");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 body {
@@ -177,7 +177,6 @@ header {
 }
 
 .input-box input:focus ~ label,
-.input-box input:active ~ label,
 .input-box input:valid ~ label {
   top: -5px;
 }
